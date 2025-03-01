@@ -1,0 +1,23 @@
+{
+  "name": "playlight_473",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TyFhoon2X3/Playlight_473.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TyFhoon2X3/Playlight_473/issues"
+  },
+  "homepage": "https://github.com/TyFhoon2X3/Playlight_473#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.8"
+  }
+}
